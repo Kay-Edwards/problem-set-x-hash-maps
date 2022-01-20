@@ -10,9 +10,9 @@ Use Test Driven Development to guide you. Run `npm install` to download dependen
 ### Short Response Questions
 
 **1. What is a Hash Map and how does it work?** Be sure to mention the terms "hash key" and "hash function" in your explanation.
-
+- An hash map is an linear data structure that uses hash keys to relate to their values. The hash function uses the hash key to retreive stored data.
 **2. What are the benefits of using a Hash Map rather than storing all of our data in an Array?**
-
+- The benefits of a hashmap versus an array is that their are no duplicate keys but their can be identical values. Also, hashmaps also have control of their keys which can be a symbol, number, or string.
 ### Coding Exercises
 
 Use a Hash Map to solve the following problems. Since Hash Maps are abstract data types, you can use any data struture (Arrays, Objects, Maps, etc.) to represent a Hash Map.
